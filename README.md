@@ -1,2 +1,2 @@
 # CUDA_Practice
-CUDA programming using C++
+CUDA programming using C/C++
